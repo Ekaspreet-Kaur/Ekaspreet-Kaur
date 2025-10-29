@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center"> Hey, I'm <span style="color:#FF69B4;">Ekaspreet Kaur</span> </h1>
 
-<!--
-**Ekaspreet-Kaur/Ekaspreet-Kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9F2B68&center=true&vCenter=true&width=600&lines=+Coding+not+just+to+earn...;+but+to+uplift+and+make+an+impact.;+Engineer+by+mind,+Artist+by+soul.">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  About Me  
+- B.Tech CSE student passionate about **creating, exploring, and evolving** through code.  
+- I believe in transforming ideas into experiences that connect technology and people.  
+- Currently exploring MERN Stack.  
+- Skilled in **C++**, **OOPs**, and **Data Structures & Algorithms**.  
+- Dreaming to build tech that empowers — not just entertains.
+
+---
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/MERN_Exploring-3C873A.svg?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack Exploring"/>
+</p>
+
+
+---
+
+###  Coding is not just a skill, it’s the language of impact.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00C2CB&center=true&vCenter=true&width=600&lines=I+don’t+just+code+to+earn...;I+code+to+uplift,+inspire,+and+make+impact.;Every+line+of+code+is+a+step+towards+change.">
+</p>
+
+---
+
+###  Currently Exploring  
+
+- MERN Stack Fundamentals  
+  
+- Problem Solving in C++  
+
+
+
+###  Connect With Me  
+
+<p align="center">
+  <a href="https://github.com/Ekaspreet-Kaur">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ekaspreet-kaur-703006312">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:ekaspreetkaur@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3 align="center"> Keep evolving, keep creating — your code can touch lives.</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,100:8A2BE2&height=90&section=footer"/>
+</p>
+
+
